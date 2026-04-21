@@ -1,0 +1,104 @@
+{
+    "Business establishment": {
+        "themes": [
+            "Theme 1: Business Background and Motivation",
+            "Theme 2: Challenges Faced by Male Entrepreneurs in Female-dominated Markets",
+            "Theme 3: Strategies for Building Trust and Familiarity with Target Customers",
+            "Theme 4: Role of Women in Business Success and Expansion",
+            "Theme 5: Adapting to Changing Market Conditions and Customer Preferences",
+            "Theme 6: Long-term Business Growth and Sustainability Strategies"
+        ],
+        "sample_mappings": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Managing business activities": {
+        "themes": [
+            "Theme 1: Customer Interaction and Service",
+            "Theme 2: Product Pricing and Cost Reduction",
+            "Theme 3: Marketing and Advertising Strategies",
+            "Theme 4: Record-keeping and Financial Management",
+            "Theme 5: Target Customer Segment and Competitor Analysis",
+            "Theme 6: Business Expansion and Growth Strategies"
+        ],
+        "sample_mappings": [
+            "Payment by the vendor Sadhna is made directly into their bank accounts on monthly basis. Few of them said that they opened the bank account to receive these payments only. Everyone had ATM cards but did not know how to operate the same, they were dependent on their husband/children for the withdrawals using ATM. As almost everyone was illiterate, they didn't feel confident about using the ATMs.",
+            "Generally, the purchase of stocks costs around INR 50,000 - 60,000 and the purchase is from different suppliers. The suppliers usually drop the ordered goods at doorstep. The payment of goods procured is made through cash only. No plans for expansion of business as he would require additional surplus, which he doesn\u2019t have at this time. In his absence, his father takes care of the shop."
+        ]
+    },
+    "Risks or challenges faced and perceived in business. Ways to handle them.": {
+        "themes": [
+            "Theme 1: Risks in Financial Stability",
+            "Theme 2: External Situational Risks",
+            "Theme 3: Challenges in Maintaining Stock",
+            "Theme 4: Location-related Challenges",
+            "Theme 5: Dead Stock Risks due to Fashion Trends",
+            "Theme 6: Competition-related Challenges"
+        ],
+        "sample_mappings": [
+            "The only challenge he could think of is the competition from the nearby general stores. To counter that he says, I will have to make more loyal customers. I do that by making sure that they get all stuff they need at my shop.",
+            "Varsha has always been someone who is very careful in both personal/business proceedings and tries to mitigate all risks beforehand. She has multiple suppliers so delivery of products is not a problem. Her suppliers send her pics of new designs which she then forwards to customers and based on their interests she places orders with the supplier. Challenge is to keep herself updated all the time with the changing fashion trends and new stitching designs in markets. She prefers to use internet to help her with this."
+        ]
+    },
+    "Access and usage levels of banking products": {
+        "themes": [
+            "Theme 1: Savings and Loans Behaviors",
+            "Theme 2: Insurance and Risk Management Practices",
+            "Theme 3: Digital Infrastructure Usage and Support",
+            "Theme 4: Business Expansion Strategies and Challenges",
+            "Theme 5: Family and Social Network Influence on Financial Decisions",
+            "Theme 6: Government Policies and Regulations Impact on Financial Services Access and Usage"
+        ],
+        "sample_mappings": [
+            "Most of the respondents opened a savings account only to get payments from work orders completed for Sadhna. And there interaction with banks was also initiated primarily through this. They felt that their past experience of banking services has been poor due to poor employee behaviour, hassles in getting access to credit services due to limited income etc. All of them were part of the SHG group and were both - saving and borrowing from the group. They preferred to take credit from SHG group versus bank due to lower interest rates. Respondents also feel that savings is not integral and the only reason they save with the SHG group is to become a member and get involved with economic activities."
+        ]
+    },
+    "Access and usage levels of digital infrastructure": {
+        "themes": [
+            "Theme 1: Digital Payment Usage",
+            "Theme 2: Preferred Communication Channels",
+            "Theme 3: Application Usage for Business Transactions",
+            "Theme 4: Influence of Digital Gurus on Business Practices",
+            "Theme 5: Cash vs Digital Payment Preference"
+        ],
+        "sample_mappings": [
+            "Most of the group members use basic phone. Some of them had Jio phones which have applications such as Whatsapp, Facebook and web browser \u2013 but none of them were using these. Family members had smartphone. They know that family members use some applications for entertainment purpose. They see it when someone shows it to them. They also know that sometimes people from Sadhna send the required design through Whatsapp from which they have to prepare the end product. This is sent to one of the group member\u2019s husband\u2019s smartphone. They do not use any form of digital payments. They say that they do not know what to do with digital payments (clearly shows that group members are affected by both illiteracy and no visible use case). Even the money received from the vendor which is transferred to their back accounts is withdrawn by their family members.",
+            "Rani has been comfortably using a smartphone for over 7-8 years. \u2022 Rani regularly uses PayTM for electricity and water bill payment, mobile recharges and sending money which she learnt from her brother. She also uses PhonePe but she finds PayTM\u2019s interface more user friendly. \u2022 Uses Whatsapp to receive/forward embroidery designs from Sadhna and other assignment details. Her brother and Seva Mandir are the biggest influencers in her life. Although, she does face challenges related to English language while operating her phone."
+        ]
+    },
+    "Past learning experience and training support required": {
+        "themes": [
+            "Theme 1: Business Expansion Strategies",
+            "Theme 2: Effective Marketing Techniques for Small Businesses",
+            "Theme 3: Inventory Management Best Practices",
+            "Theme 4: Financial Management Strategies for Small Business Owners",
+            "Theme 5: Customer Engagement and Retention Techniques for Small Businesses",
+            "Theme 6: Time Management and Productivity Techniques for Small Business Owners"
+        ],
+        "sample_mappings": [
+            "Sadhna conducts skill development training for the artisans to learn efficient techniques, the training is organized by Sadhna/Seva Mandir and it is focused on developing the skills required in the sewing business only, the language used is Hindi.",
+            "Most of the members said of basic financial management (savings, credit), understanding customer needs and marketing."
+        ]
+    },
+    "Willingness to share personal and business data": {
+        "themes": [
+            "Theme 1: Data Sharing Concerns",
+            "Theme 2: Personal vs. Business Information",
+            "Theme 3: Fear of Fraud and Identity Theft",
+            "Theme 4: Adoption of Digital Ways for Business",
+            "Theme 5: Trust and Confidentiality in Data Sharing",
+            "Theme 6: Awareness and Education about Data Privacy and Security"
+        ],
+        "sample_mappings": [
+            "The level of importance of personal information sharing, consent, and data privacy was generally missing. They can share the data, information if some trusted agencies like Seva Mandir come or ask to do that.",
+            "They are not comfortable sharing data, unless absolutely necessary or important.",
+            "He can share the data and personal information if he trusts the party.",
+            "She was not willing to share any personal information with anyone.",
+            "Not willing to share any data at all. He saw some movie where it was shown that how personal data and informations are wrongly used, he has become quite skeptical about sharing any personal information with anyone."
+        ]
+    }
+}
